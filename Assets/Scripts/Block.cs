@@ -23,7 +23,7 @@ public class Block : MonoBehaviour
             Destroy(gameObject);
             GameManager.Instance.AddScore(20);
         }
-/*
+
         if (collision.gameObject.tag == "Ball" && gameObject.tag == "Level 2 Block")
         {
             hitCount++;
@@ -35,6 +35,6 @@ public class Block : MonoBehaviour
             {
                 Destroy(gameObject);
             }
-        }*/
+        }
     }
 }
