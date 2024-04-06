@@ -7,13 +7,6 @@ public class Paddle : MonoBehaviour
     float screenWidthInUnits = 24f;
     float xMin = 2.15f;
     float xMax = 19.23f;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {

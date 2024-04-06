@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (8)
@@ -443,6 +447,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (9)
@@ -516,6 +524,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (5)
@@ -578,6 +590,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (10)
@@ -640,6 +656,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (2)
@@ -702,6 +722,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (7)
@@ -764,6 +788,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (3)
@@ -826,6 +854,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (6)
@@ -888,6 +920,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 470057268}
     m_Modifications:
+    - target: {fileID: 2025487745605261733, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5749030024367775284, guid: 7743db49b510ad44c96abe30c090923b, type: 3}
       propertyPath: m_Name
       value: Level 1 block (4)
@@ -1015,6 +1051,18 @@ PrefabInstance:
       propertyPath: paddle1
       value: 
       objectReference: {fileID: 1332486731}
+    - target: {fileID: 2086190330121836382, guid: ec161f09dfc7ded49b0466eb35c45733, type: 3}
+      propertyPath: m_Radius
+      value: 0.20867541
+      objectReference: {fileID: 0}
+    - target: {fileID: 2086190330121836382, guid: ec161f09dfc7ded49b0466eb35c45733, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0059638023
+      objectReference: {fileID: 0}
+    - target: {fileID: 2086190330121836382, guid: ec161f09dfc7ded49b0466eb35c45733, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.009939641
+      objectReference: {fileID: 0}
     - target: {fileID: 2086190330121836383, guid: ec161f09dfc7ded49b0466eb35c45733, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1025,7 +1073,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2086190330121836383, guid: ec161f09dfc7ded49b0466eb35c45733, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.21
+      value: 0.924
       objectReference: {fileID: 0}
     - target: {fileID: 2086190330121836383, guid: ec161f09dfc7ded49b0466eb35c45733, type: 3}
       propertyPath: m_LocalPosition.z

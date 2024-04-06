@@ -222,6 +222,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7009275540365680663, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_fontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275540365680663, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275540824429268, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_fontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275540824429268, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541123597616, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 298.9541
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541123597616, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 55.3979
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541123597616, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541123597616, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -30.42101
+      objectReference: {fileID: 0}
     - target: {fileID: 7009275541123597617, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -233,6 +265,22 @@ PrefabInstance:
     - target: {fileID: 7009275541123597617, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: LevelLoader, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541839091279, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 282.2064
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541839091279, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 41.7144
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541839091279, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7009275541839091279, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -99
       objectReference: {fileID: 0}
     - target: {fileID: 7009275541839091312, guid: 984cc9a7d4f94c244a6940dc9314c04e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target

@@ -6,9 +6,9 @@ using UnityEngine.UI;
 public class Block : MonoBehaviour
 {
     [SerializeField] Sprite[] level2Blocks;
+    [SerializeField] AudioSource bounceClip;
     int hitCount = 0;
     LevelLoader level;
-
     private void Start()
     {
         level = FindObjectOfType<LevelLoader>();
@@ -17,7 +17,7 @@ public class Block : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Ball" && gameObject.tag == "Level 1 Block")
+        if (collision.gameObject.tag == "Ball" && gameObject.tag == "Level 1 Block")
         {
             level.DestroyedBlocks();
             Destroy(gameObject);
@@ -30,10 +30,12 @@ public class Block : MonoBehaviour
             if (hitCount == 1)
             {
                 GetComponent<SpriteRenderer>().sprite = level2Blocks[1];
+                bounceClip.Play();
             }
             if (hitCount >= 2)
             {
                 Destroy(gameObject);
+                bounceClip.Play();
             }
         }
     }
